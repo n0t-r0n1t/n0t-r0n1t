@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @r0n1t
+- 👀 I’m interested in Full stack development
+- 🌱 I’m currently learning Systems Engineering
+- 📫 How to reach me romeah@blazify.rocks
