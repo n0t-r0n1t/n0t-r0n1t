@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @RoMeAh (Old account: https://github.com/RoMeAh-zz?tab=repositories)
 - 👀 I’m interested in Full stack development
 - 🌱 I’m currently learning Systems Engineering
-- 📫 How to reach me romeah@blazify.rocks
+- 📫 How to reach me romeah@blazify.tech
